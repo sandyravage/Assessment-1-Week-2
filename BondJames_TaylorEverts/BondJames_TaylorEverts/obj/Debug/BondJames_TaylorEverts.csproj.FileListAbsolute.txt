@@ -1,0 +1,6 @@
+C:\Users\TEVERTS\source\repos\BondJames_TaylorEverts\BondJames_TaylorEverts\bin\Debug\BondJames_TaylorEverts.exe.config
+C:\Users\TEVERTS\source\repos\BondJames_TaylorEverts\BondJames_TaylorEverts\bin\Debug\BondJames_TaylorEverts.exe
+C:\Users\TEVERTS\source\repos\BondJames_TaylorEverts\BondJames_TaylorEverts\bin\Debug\BondJames_TaylorEverts.pdb
+C:\Users\TEVERTS\source\repos\BondJames_TaylorEverts\BondJames_TaylorEverts\obj\Debug\BondJames_TaylorEverts.csproj.CoreCompileInputs.cache
+C:\Users\TEVERTS\source\repos\BondJames_TaylorEverts\BondJames_TaylorEverts\obj\Debug\BondJames_TaylorEverts.exe
+C:\Users\TEVERTS\source\repos\BondJames_TaylorEverts\BondJames_TaylorEverts\obj\Debug\BondJames_TaylorEverts.pdb
